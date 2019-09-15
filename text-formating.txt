@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Learn HTML</title>
+		<link rel="stylesheet" href="style.css">
+		<style>
+			
+			}
+			#par1  {
+				text-decoration: underline;
+				text-align: center;
+				text-transform: uppercase;
+				word-spacing: 50px;
+				line-height: 2;
+			}
+			#par2  {
+				text-decoration: overline;
+				text-align: right;
+				text-transform: lowercase;
+				letter-spacing: 10px;
+			}
+			#par3  {
+				text-decoration: line-through;
+				text-align: left;
+				text-transform: capitalize;
+				line-height: 2;
+			}
+		</style>
+	</head>
+	<body>
+		
+		<p id="par1">This is the simple Paragraph!</p>
+		<p id="par2">This is the simple Paragraph!</p>
+		<p id="par3">This is the simple Paragraph!</p>
+	</body>
+</html>  
