@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Learn HTML</title>
+		<link rel="stylesheet" href="style.css">
+		<style>
+			table {
+				width: 800px;
+				
+			}
+			table, th, td {
+				/*border: 2px solid black;*/
+				border-bottom: 2px solid silver;
+				border-collapse: collapse;
+			}
+			td, th{
+				text-align: center;
+				padding: 10px;
+				vertical-align:middle;
+			}
+			tbody tr:hover {
+				background: silver;
+			}
+			thead tr {
+				background: brown;
+				color: white;
+				
+			}
+		</style>
+	</head>
+	<body>
+		<table>
+			<thead>
+				<tr>
+					<th>S.no</th>
+					<th>Student Name</th>
+					<th>Father Name</th>
+					<th>Teacher Name</th>
+					<th>Contact Number</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>1</td>
+					<td>John</td>
+					<td>Doe</td>
+					<td>Mark</td>
+					<td>123456789</td>
+				</tr>
+				<tr>
+					<td>1</td>
+					<td>John</td>
+					<td>Doe</td>
+					<td>Mark</td>
+					<td>123456789</td>
+				</tr>
+				<tr>
+					<td>1</td>
+					<td>John</td>
+					<td>Doe</td>
+					<td>Mark</td>
+					<td>123456789</td>
+				</tr>
+			</tbody>
+		</table>
+	
+	</body>
+</html>
