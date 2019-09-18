@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Learn HTML</title>
+	</head>
+	<body>
+		<h3>The Unordered List</h3>
+		<!-- Unordered List-->
+		<ul type="square">
+			<li>Samsung</li>
+			<li>Iphone</li>
+			<li>Nokia</li>
+			<li>Sony</li>
+		</ul>
+		
+		<ul type="circle">
+			<li>Samsung</li>
+			<li>Iphone</li>
+			<li>Nokia</li>
+			<li>Sony</li>
+		</ul>
+		
+		<h3>The Ordered list</h3>
+		
+		<!-- Ordered List-->
+		<ol>
+			<li>Hp</li>
+			<li>Dell</li>
+			<li>IBM</li>
+			<li>Acer</li>
+			<li>Apple</li>
+		</ol>
+		
+		<ol type="a">
+			<li>Hp</li>
+			<li>Dell</li>
+			<li>IBM</li>
+			<li>Acer</li>
+			<li>Apple</li>
+		</ol>
+		
+		<ol type="A">
+			<li>Hp</li>
+			<li>Dell</li>
+			<li>IBM</li>
+			<li>Acer</li>
+			<li>Apple</li>
+		</ol>
+		
+		<ol type="I">
+			<li>Hp</li>
+			<li>Dell</li>
+			<li>IBM</li>
+			<li>Acer</li>
+			<li>Apple</li>
+		</ol>
+		
+		<ol type="i">
+			<li>Hp</li>
+			<li>Dell</li>
+			<li>IBM</li>
+			<li>Acer</li>
+			<li>Apple</li>
+		</ol>
+	</body>
+</html>
